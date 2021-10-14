@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image {
+  vertical-align: bottom;
+}
+
+.selected {
+  border: 2px solid burlywood;
+}
+
+.month {
+  align-self: flex-end;
+}
